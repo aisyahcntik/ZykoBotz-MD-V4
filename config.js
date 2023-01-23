@@ -42,56 +42,56 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/kabulsaputra21'
-global.tautanwa = 'https://wa.me/message/KRXQFJXHYZDNL1'
-global.sgh = 'https://github.com/ZykoBotz-MD' //github
-global.sgc = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf' //group whatsapp
+global.sig = 'https://instagram.com/aisy_ahmp'
+global.tautanwa = 'https://wa.me/message/BTDWE2G7VNUZB1'
+global.sgh = 'https://github.com/aisyahcntikD' //github
+global . sgc  =  https : //chat.whatsapp.com/HmQEdtHTySM4OuZ0c9NhvN' //grup whatsapp
 global.sdc = '-' //discord
-global.linkyt = 'https://youtube.com/@zykobotz'
-global.syt = 'https://youtube.com/@zykobotz'
+global.linkyt = 'https://www.youtube.com/@aisyah_m.p13302'
+global.syt = 'https://www.youtube.com/@aisyah_m.p13302'
 global.sfb = 'https://www.facebook.com/' // facebook
-global.snh = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf'
-global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
-global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
+global . snh  =  'https://chat.whatsapp.com/HmQEdtHTySM4OuZ0c9NhvN'
+global.media = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
+global . wame    =    'https://wa.me/message/BTDWE2G7VNUZB1'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['62XXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true],
-['62XXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true]
+[ '6282376267531' , 'AAi-𝑀𝐷' , benar ],
+[ '6285950091241' , 'Zyanbot-𝑀𝐷' , benar ]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62XXX' //pasang no bot lo 
-global.nomorown = '62XXX' //pasang no own lo
-global.nomorown1 = '62XXX'
-global.nomorown2 = '62XXX'
+global.nomorbot = '6285950091241' //pasang no bot lo 
+global.nomorown = '6282376267531' //pasang no own lo
+global.nomorown1 = '6285950091241'
+global . nomorown2  =  '6282376267531'
 global.nomorwa = '0'
-global.nameown = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.gcname = '𝑍𝑌𝐾𝑂-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Created By 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.namabot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.namebot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.packname2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global . nameown  =  'Aai-𝑀𝐷'
+global . nama gc  =  'Zyan-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
+global.author = 'Created By Aai-𝑀𝐷'
+global.namabot = 'ZYAN𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.namebot = '𝗭nyaB𝗼𝘁𝘇-𝗠𝗗'
+global . namakemas2  =  'Zyanbot
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.nameown2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global . nameown1 =  'AAi-𝑀𝐷'
+global . nameown2  =  'Zyanbot-𝑀𝐷'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.wm2 = '𝑍𝑌𝐾𝑂-𝑀𝐷 '
+global . wm  =  '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Aai-𝑀𝐷'
+global . wm2  =  'Aai-𝑀𝐷'
 global.packname = wm
 global.watermark = wm
-global.titlebot = `𝑍𝑌𝐾𝑂-𝑀𝐷`
+global . titlebot  =  `Aai-𝑀𝐷`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.stickauth = `© 𝑍𝑌𝐾𝑂-𝑀𝐷`
+global . stickpack  =  'Aai M𝐷'
+global.stickauth = `© Aai-𝑀𝐷`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -102,23 +102,23 @@ global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INTRO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.intro = 'https://telegra.ph/file/676bac7774d2785b7ee1e.jpg'
+global . intro  =  'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
 
-//⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
+//⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAUTAN MEDIA ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.Linkgc = 'Bentar'
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.lynk = 'https://chat.whatsapp.com/HmQEdtHTySM4OuZ0c9NhvN'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.pdana = '08XXXXXXXXXX' //pasang no lo sinih buat donasi 
-global.povo = '08XXXXXXXXXX' 
-global.pgopay = '08XXXXXXXXXX'
+global.pdana = '082376267531' //pasang no lo sinih buat donasi 
+global.povo = '082376267531' 
+global.pgopay = '082376267531'
 global.plinkaja = '-' //link aja
-global.ppulsa = '08XXXXXXXXXX'
-global.ppulsa2 = '08XXXXXXXXXX'
+global . ppulsa  =  '085950091241'
+global . ppulsa2  =  '082376267531'
 global.psaweria = 'https://saweria.co/hyuura'
-global.donasikabul = 'Jasa Sewa ZykoBotz-MD\nhttps://lynk.id/kabul',
+global . donasikabul  =  'Jasa Sewa zykobotz-MD\nhttps://lynk.idZykobotz,
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
